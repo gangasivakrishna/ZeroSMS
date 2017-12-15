@@ -8,6 +8,9 @@ Send a text message via Way2SMS to your friends and family in India. Enter your 
 install zerosms package using pip3 :
 
     sudo pip3 install zerosms
+    
+or extract the zip file locate to the folder then type this command
 
+    python3 setup.py install
 
 
