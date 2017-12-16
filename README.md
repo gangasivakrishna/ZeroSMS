@@ -14,3 +14,6 @@ or extract the zip file , locate to the folder and then type this command
     python3 setup.py install
 
 
+usage :
+
+ visit this url :    https://pypi.python.org/pypi/zerosms
