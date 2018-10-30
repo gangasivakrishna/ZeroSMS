@@ -1,4 +1,4 @@
 Python>=3.5.3
 pip3 == 9.0.1
-requests==2.10.0
+requests==2.20.0
 BeautifulSoup>=4.6.0
